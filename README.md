@@ -20,9 +20,9 @@ These improvements come at no cost: the post-hoc results are always at least as 
 
 ## Repository Structure
 
--   `util.R` — Implementation of all methods used in the paper, including:
+-   `./src/util.R` — Implementation of all methods used in the paper, including:
     -   original knockoffs\
     -   derandomized knockoffs\
     -   post-hoc knockoffs\
     -   post-hoc derandomized knockoffs
--   `benchtm_example.R` — Code for reproducing the case study from **Section 6** of the paper.
+-   `./src/benchtm_example.R` — Code for reproducing the case study from **Section 6** of the paper.
