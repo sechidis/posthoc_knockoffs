@@ -1,0 +1,21 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Ignore all files in the derandomized results folder
+src/sim_derandomized_PH_vs_RB_FDR/results/gaussian/*
+src/sim_derandomized_PH_vs_RB_FDR/results/logistic/*
+src/sim_derandomized_PH_vs_RB_FDR/log/*
+
+src/sim_derandomized_PH_vs_RWC_PFER/results/gaussian/*
+src/sim_derandomized_PH_vs_RWC_PFER/results/logistic/*
+src/sim_derandomized_PH_vs_RWC_PFER/log/*
+
+src/sim_PH_vs_calibration/results/gaussian/*
+src/sim_PH_vs_calibration/results/logistic/*
+src/sim_PH_vs_calibration/log/*
+
+src/Section_5_3_1/results/gaussian/*
+src/Section_5_3_1/results/logistic/*
+src/Section_5_3_1/log/*
